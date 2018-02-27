@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="frequently_asked.css">
+	<script src="header.js"></script>
+	<link rel="stylesheet" href="header.css">
+	<link rel="stylesheet" href="basics.css">
+</head>
+<body>
+	<div class="header sticky" id="myHeader">
+		<img id="logo" src="sample.jpg"/>
+		<div id="myNav" class="overlay">
+			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+			<div class="overlay-content">
+				<a href="home.html">Home</a>
+				<a href="sponsor_information.html">Sponsor Information</a>
+				<a href="projects_and_students.html">Projects &#38; Our Students</a>
+				<a href="media_and_publications.html">Media &#38; Publications</a>
+				<a href="calendar.html">Calendar</a>
+				<a href="frequently_asked.html">FAQ</a>
+				<a href="how_to_apply.html">How To Apply</a>
+				<hr/>
+				<a href="http://computing.njit.edu/affiliates/">Industrial Affiliates Program</a>
+			</div>
+		</div>
+		<span id="nav" onclick="openNav()">&#9776;</span>
+	</div>
+	
+	<div class="title">
+		<h1>Frequently Asked Questions</h1>
+		<br/>
+	</div>
+	
+	<div class="content">
+		<button class="accordion">Question One</button>
+			<div class="panel">
+				<p>This is the answer to question number one.</p>
+			</div>	
+		<button class="accordion">Question Two</button>
+			<div class="panel">
+				<p>This is the answer to question number two.</p>
+			</div>
+		<button class="accordion">Question Three</button>
+			<div class="panel">
+				<p>This is the answer to question number three.</p>
+			</div>
+	</div>
+	
+	<script>
+		var acc = document.getElementsByClassName("accordion");
+		var i;
+
+		for (i = 0; i < acc.length; i++) {
+			acc[i].addEventListener("click", function() {
+				this.classList.toggle("active");
+				var panel = this.nextElementSibling;
+				if (panel.style.display === "block") {
+					panel.style.display = "none";
+				} else {
+					panel.style.display = "block";
+				}
+			});
+		}
+	</script>
+	
+</body>
+<footer>
+	<br/>
+	<p>This is the footer</p>
+	<br/><br/>
+</footer>
+</html>

@@ -1,0 +1,27 @@
+<?php
+	$dir = "newImages/";
+	$images = scandir($dir);
+?>
+<script>
+	function changeImg(){
+		<?php
+			echo $images[$counter];
+			$counter ++;
+		?>
+		setTimeout(changeImg, 5000);
+	}
+	function checkCount(){
+		<?php
+			if ($counter >= arrLength){
+				$counter = 0;
+			}
+			while ($counter < arrLength){
+				echo "
+					<script>
+						changeImg();
+					</script>
+				";
+			}
+		?>	
+	}
+</script>

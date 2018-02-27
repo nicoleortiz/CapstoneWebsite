@@ -1,0 +1,22 @@
+/* Image */
+.title img{
+  width:100%;
+}
+/* Text */
+.title #imgText {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 95%;
+}
+.title p {
+  text-align: center;
+  padding: 2% 2.5%;
+  font-size: 90%;
+  font-weight: bold;
+}
+.title h3{
+  font-size: 150%;
+  padding-top: 2%;
+}
