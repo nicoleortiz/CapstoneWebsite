@@ -49,7 +49,7 @@
         <div class="row">
           <div class="col-md-2">
             <div class="site-logo">
-              <a href="index.html" class="brand">Logo</a>
+              <a href="home.php" class="brand">Logo</a>
             </div>
           </div>
 
@@ -65,12 +65,12 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="home.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="sponsors.html">Sponsors</a></li>
-                <li><a href="students.html">Our Students</a></li>
-                <li><a href="apply.html">Apply</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="home.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="sponsors.php">Sponsors</a></li>
+                <li><a href="students.php">Our Students</a></li>
+                <li><a href="apply.php">Apply</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
             <!-- /.Navbar-collapse -->
@@ -221,24 +221,7 @@
   <!-- /Section: expectations -->
 
   <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 footerLeft">
-          <ul>
-            <li>
-            <p>Mission Statement<br/></p>
-            <p>
-            Since the very beginning, we saw the chance to do be something different than just another class students need to take. We wanted to show the power behind students� potentials, as well as students-centered education. As we have done in the past, we always continue to  strive towards creating a window for endless possibilities for students, university and community.
-            </p>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-6 footerRight">
-          <br><br>
-          <p>New Jersey Institute of Technology<br/>323 Dr Martin Luther King Jr Blvd,<br/>Newark, NJ 07102</p>
-        </div>
-      </div>
-    </div>
+    <?php include 'footer.php';?>
   </footer>
 
   <!-- Core JavaScript Files -->

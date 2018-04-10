@@ -60,7 +60,7 @@
         <div class="row">
           <div class="col-md-2">
             <div class="site-logo">
-              <a href="index.html" class="brand">Logo</a>
+              <a href="index.php" class="brand">Logo</a>
             </div>
           </div>
 
@@ -77,11 +77,11 @@
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="sponsors.html">Sponsors</a></li>
-                <li><a href="students.html">Our Students</a></li>
-                <li><a href="apply.html">Apply</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="sponsors.php">Sponsors</a></li>
+                <li><a href="students.php">Our Students</a></li>
+                <li><a href="apply.php">Apply</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
             <!-- /.Navbar-collapse -->
@@ -176,7 +176,7 @@
                   <p>
                     To simplify the process, we have created three easy steps to become a sponsor. Click below for more details.
                   </p>
-                  <a href="apply.html" class="btn btn-skin">Apply Now</a>
+                  <a href="apply.php" class="btn btn-skin">Apply Now</a>
                 </div>
               </div>
             </div>
@@ -205,7 +205,7 @@
                   <p>
                     Access to a diverse talent team and finding new employees to name a few. Click below to learn everything Capstone can offer you
                   </p>
-                  <a href="sponsors.html#benefits" class="btn btn-skin">Learn more</a>
+                  <a href="sponsors.php#benefits" class="btn btn-skin">Learn more</a>
                 </div>
               </div>
             </div>
@@ -288,11 +288,9 @@
   <script src="js/jquery.appear.js"></script>
   <script src="js/stellar.js"></script>
   <script src="js/nivo-lightbox.min.js"></script>
-
   <script src="js/custom.js"></script>
   <script src="js/css3-animate-it.js"></script>
   <script src="contactform/contactform.js"></script>
-
   <script src="js/additions.js"></script>
 
 </body>
