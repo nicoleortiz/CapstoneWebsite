@@ -29,28 +29,15 @@
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 
-  <section class="subHead" id="intro">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center inner">
-          <div class="animatedParent">
-            <h1 class="animated fadeInDown">About</h1>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
   <!-- Navigation -->
   <div id="navigation">
     <nav class="navbar navbar-custom" role="navigation">
       <div class="container">
         <div class="row">
           <div class="col-md-2">
-            <div class="site-logo">
-              <a href="home.php" class="brand">Logo</a>
-            </div>
+                <img src="img/logo.png" height="100"/></a>
+          </div>
+          <div class="col-md-10">
           </div>
 
 
@@ -66,10 +53,11 @@
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="home.php">Home</a></li>
-                <li><a href="about.php">About</a></li>
+                <li><a href="events.php">Events</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="students.php">Our Students</a></li>
                 <li><a href="apply.php">Apply</a></li>
+                <li><a href="about.php">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
@@ -84,6 +72,7 @@
   <!-- /Navigation -->
 
   <!-- Section: application -->
+
   <section id="application" class="fixpad home-section color-dark bg-white">
     <div class="container">
       <div class="row">
@@ -100,7 +89,7 @@ As a network of networks, the multidisciplinary capstone today is changing how c
   <!-- /Section: application -->
 
   <!-- Section: guidelines -->
-  <section id="guidelines" class="fixpad home-section color-dark bg-gray">
+  <!-- <section id="guidelines" class="fixpad home-section color-dark bg-gray">
       <div class="container marginbot-50">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
@@ -112,7 +101,7 @@ As a network of networks, the multidisciplinary capstone today is changing how c
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="container">
       <div class="row">
@@ -127,7 +116,7 @@ As a network of networks, the multidisciplinary capstone today is changing how c
   <!-- /Section: guidelines -->
 
   <!-- Section: payment -->
-  <section id="payment" class="fixpad home-section color-dark bg-white">
+  <section id="proprietary-info" class="fixpad home-section color-dark bg-white">
     <div class="container marginbot-50">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
@@ -145,10 +134,10 @@ As a network of networks, the multidisciplinary capstone today is changing how c
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
           <div class="text-center">
             <p>
-            Capstone Students are instructed to respect the confidential nature of all proprietary information made available to them through the Capstone Program. Company Representatives are responsible to disclose information as relevant and clearly identify it as propriety. They are also responsible to review Capstone Student presentations to make sure proprietary information is not made public.  All Capstone Student inventions resulting from the Capstone Project, including data and software, that are intrinsic to and derived from a Capstone Sponsor�s proprietary information shall belong solely (100%) to the Capstone Sponsor.
+            Capstone Students are instructed to respect the confidential nature of all proprietary information made available to them through the Capstone Program. Company Representatives are responsible to disclose information as relevant and clearly identify it as propriety. They are also responsible to review Capstone Student presentations to make sure proprietary information is not made public.  All Capstone Student inventions resulting from the Capstone Project, including data and software, that are intrinsic to and derived from a Capstone Sponsor's proprietary information shall belong solely (100%) to the Capstone Sponsor.
             </p>
             <p>
-            If, during the course of the Capstone Project, a Capstone Student and/or the Capstone Instructor invents technology that is non-intrinsic to nor derived from a Capstone Sponsor�s propriety information, the intellectual property rights to the technology shall belong exclusively to NJIT in accordance with NJIT�s official Intellectual Property Policy. If the Company Representative participated in the invention, the intellectual property rights to the technology shall be shared (50%-50%) by the Capstone Sponsor and NJIT.
+            If, during the course of the Capstone Project, a Capstone Student and/or the Capstone Instructor invents technology that is non-intrinsic to nor derived from a Capstone Sponsor's propriety information, the intellectual property rights to the technology shall belong exclusively to NJIT in accordance with NJIT's official Intellectual Property Policy. If the Company Representative participated in the invention, the intellectual property rights to the technology shall be shared (50%-50%) by the Capstone Sponsor and NJIT.
             </p>
           </div>
         </div>

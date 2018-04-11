@@ -29,29 +29,6 @@
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 
-  <section class="hero" id="intro">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-right navicon">
-          <a id="nav-toggle" class="nav_slide_button" href="#"><span></span></a>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center inner">
-          <div class="animatedParent">
-            <h1 class="animated fadeInDown">NJIT YWCC Capstone</h1>
-            <p class="animated fadeInUp">NJIT Finds Industry Solutions</p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6 col-md-offset-3 text-center">
-          <a href="#about" class="learn-more-btn btn-scroll">Attend the showcase</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
 
   <!-- Navigation -->
   <div id="navigation">
@@ -59,12 +36,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-2">
-            <div class="site-logo">
-              <a href="index.php" class="brand">Logo</a>
-            </div>
+                <img src="img/logo.png" height="100"/></a>
           </div>
-
-
           <div class="col-md-10">
 
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -77,10 +50,11 @@
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="about.php">About</a></li>
+                <li><a href="events.php">Events</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="students.php">Our Students</a></li>
                 <li><a href="apply.php">Apply</a></li>
+                <li><a href="about.php">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
@@ -99,15 +73,12 @@
     <div class="container marginbot-50">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
-          <div class="animatedParent">
-            <div class="section-heading text-center animated bounceInDown">
+            <div class="section-heading text-center">
               <h2 class="h-bold">What is Capstone</h2>
               <div class="divider-header"></div>
-            </div>
           </div>
         </div>
       </div>
-
     </div>
 
     <div class="container">

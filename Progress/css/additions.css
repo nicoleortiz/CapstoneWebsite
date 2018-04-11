@@ -1,22 +1,22 @@
 /* General Changes */
 .subHead {
   background-color: #b3e0ff;
-  -webkit-background-size: cover; 
-  -moz-background-size: cover; 
-  -o-background-size: cover; 
-  background-size: cover; 
-  padding: 25px 0 50px 0; 
-  height: auto; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 25px 0 50px 0;
+  height: auto;
 }
-.subHead h1 { 
-  font-size: 40px; 
-  letter-spacing: 12px; 
-  margin: 40px 0 10px; 
+.subHead h1 {
+  font-size: 40px;
+  letter-spacing: 12px;
+  margin: 40px 0 10px;
   font-weight: 900; color: #fff;
 }
-.hero h1 span { 
-  color: #a1a9b0; 
-  display: inline-block; 
+.hero h1 span {
+  color: #a1a9b0;
+  display: inline-block;
 }
 
 /* Adjusts Padding in FAQ */
@@ -71,7 +71,7 @@
     border-radius: 12px;
 }
 .active, .accordion:hover {
-    background-color: #ccc; 
+    background-color: #ccc;
 }
 .panel {
     padding: 0 18px;
@@ -132,7 +132,7 @@ ul {
     visibility: visible;
 }
 .cardimg {
-    width:75%; 
+    width:75%;
     height: 50%;
 }
 .card:hover {

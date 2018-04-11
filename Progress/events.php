@@ -53,7 +53,7 @@
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="home.php">Home</a></li>
-                <li><a href="events.php">Events</a></li>
+                <li class="active"><a href="#">Events</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="students.php">Our Students</a></li>
                 <li><a href="apply.php">Apply</a></li>

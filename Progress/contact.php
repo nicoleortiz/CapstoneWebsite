@@ -29,27 +29,14 @@
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 
-  <section class="subHead" id="intro">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center inner">
-          <div class="animatedParent">
-            <h1 class="animated fadeInDown">Contact</h1>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
   <!-- Navigation -->
   <div id="navigation">
     <nav class="navbar navbar-custom" role="navigation">
       <div class="container">
         <div class="row">
           <div class="col-md-2">
-            <div class="site-logo">
-              <a href="home.php" class="brand">Logo</a>
+            <div class="col-md-2">
+                <img src="img/logo.png" height="100"/></a>
             </div>
           </div>
 
@@ -66,10 +53,11 @@
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="home.php">Home</a></li>
-                <li><a href="about.php">About</a></li>
+                <li><a href="events.php">Events</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="students.php">Our Students</a></li>
                 <li><a href="apply.php">Apply</a></li>
+                <li><a href="about.php">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>

@@ -24,23 +24,9 @@
     Author: BootstrapMade
     Author URL: https://bootstrapmade.com
   ======================================================= -->
-
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
-
-  <section class="subHead" id="intro">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center inner">
-          <div class="animatedParent">
-            <h1 class="animated fadeInDown">Sponsors</h1>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
 
   <!-- Navigation -->
   <div id="navigation">
@@ -48,11 +34,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-2">
-            <div class="site-logo">
-              <a href="home.php" class="brand">Logo</a>
-            </div>
+                <img src="img/logo.png" height="100"/></a>
           </div>
-
 
           <div class="col-md-10">
 
@@ -66,10 +49,11 @@
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="home.php">Home</a></li>
-                <li><a href="about.php">About</a></li>
+                <li><a href="events.php">Events</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="students.php">Our Students</a></li>
                 <li><a href="apply.php">Apply</a></li>
+                <li><a href="about.php">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
@@ -141,7 +125,7 @@
               <h2 class="h-bold">Types of Projects</h2>
               <div class="divider-header"></div>
               <p>
-              The program accepts a very wide array of IT/software driven problem solving projects � including software development, business analysis and IT solutions Recently, the projects that match students interests  most include but not limited to:
+              The program accepts a very wide array of IT/software driven problem solving projects including software development, business analysis and IT solutions Recently, the projects that match students interests  most include but not limited to:
               </p>
             </div>
           </div>

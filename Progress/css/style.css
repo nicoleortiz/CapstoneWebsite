@@ -147,37 +147,32 @@ blockquote strong {
   font-weight: 700;
 }
 
-
-
-
 .light {
     font-weight: 400;
 }
 
 /* --- logo --- */
 .site-logo {
-	margin-top: 10px;
+
 }
 .site-logo a.brand {
-	color: #111;
-	text-transform: uppercase;
-	font-size: 32px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 900;
-	margin-top: 20px;
-}
+	/* background-color: lightblue; */
 
+	/* font-size: 32px; */
+	/* font-family: 'Roboto', sans-serif; */
+	/* font-weight: 900; */
+	/* margin-top: 20px; */
+}
 
 /* ------- Navigation ------------ */
 #navigation {
 	background: #fff;
 	z-index: 9999;
 	width:100%;
-    box-sizing:border-box;
+  box-sizing:border-box;
 	border-bottom: 1px solid #eee;
 	box-shadow:0px 0px 20px rgba(0, 0, 0, 0.1);
 }
-
 
 .navbar {
     margin-bottom: 0;
@@ -429,7 +424,7 @@ hr.bold {
 /* ===========================
 --- Intro
 ============================ */
-.hero { background: url(../img/ywcc_edit.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: 77%; }
+.hero { background: no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 10px 0 200px 0; height: 2%; }
 .hero h1 { font-size: 40px; letter-spacing: 12px; margin: 10px 0 10px; font-weight: 900; color: #fff;}
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { font-size: 24px; font-weight: 400; color: #fefefe; }
