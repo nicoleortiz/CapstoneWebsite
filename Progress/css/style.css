@@ -339,16 +339,16 @@ hr.bold {
 ============================ */
 
 .home-section {
-    padding-top: 150px;
-    padding-bottom: 110px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 	display:block;
     position:relative;
     z-index:120;
 }
 
 .inner-section {
-    padding-top: 110px;
-    padding-bottom: 110px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
