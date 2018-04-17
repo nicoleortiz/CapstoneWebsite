@@ -4,7 +4,7 @@ a:focus {
 }
 
 #navigation {
-	border-top: 5px solid #b3e0ff;
+	border-top: 0px;
 }
 
 a,.tp-caption a.btn:hover {

@@ -12,18 +12,17 @@
 	margin:0;
 }
 
-
 body {
     width: 100%;
     height: 100%;
     font-family: 'Ek Mukta', sans-serif;
-	font-weight: 300;
+		font-weight: 300;
     color: #666;
     background-color: #fff;
-	font-size: 18px;
+		font-size: 18px;
     line-height: 1.6em;
-	font-weight: 400;
-	overflow-x: hidden;
+		font-weight: 400;
+		overflow-x: hidden;
 }
 
 html {
@@ -938,7 +937,7 @@ footer .social-widget ul.team-social li a {
 
 /* --- button --- */
 .btn {
-	border-radius: 2px;
+	border-radius: 0px;
 	position: relative;
 	display: inline-block;
 	outline: none;
@@ -964,6 +963,7 @@ a.btn:focus{
   background-color: #c83539;
   border-color: #c83539;
 }
+
 .btn-red:hover,
 .btn-red:focus,
 .btn-red:active,
@@ -1107,6 +1107,16 @@ a.btn:focus{
 
 }
 
+.mymenu
+{
+    background-color: blue;
+    color: white;
+}
+.newmenu
+{
+    background-color: red;
+    color: white;
+}
 @media (max-width:480px) {
 
 	.navbar-custom .nav.navbar-nav {

@@ -1,77 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="">
-  <meta name="author" content="">
+<?php include_once 'head.php';?>
+<?php include_once 'navigation.php';?>
 
-  <title>NJIT YWCC Capstone</title>
-
-  <!-- css -->
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-  <link href="css/nivo-lightbox.css" rel="stylesheet" />
-  <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
-  <link href="css/animations.css" rel="stylesheet" />
-  <link href="css/style.css" rel="stylesheet">
-  <link href="css/additions.css" rel="stylesheet">
-  <link href="color/default.css" rel="stylesheet">
-  <!-- =======================================================
-    Theme Name: Bocor
-    Theme URL: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
-    Author: BootstrapMade
-    Author URL: https://bootstrapmade.com
-  ======================================================= -->
-
-</head>
-
-<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
-
-  <!-- Navigation -->
-  <div id="navigation">
-    <nav class="navbar navbar-custom" role="navigation">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-2">
-            <div class="col-md-2">
-                <img src="img/logo.png" height="100"/></a>
-            </div>
-          </div>
-
-
-          <div class="col-md-10">
-
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
-                                                <i class="fa fa-bars"></i>
-                                                </button>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="menu">
-              <ul class="nav navbar-nav navbar-right">
-                <li><a href="home.php">Home</a></li>
-                <li><a href="events.php">Events</a></li>
-                <li><a href="sponsors.php">Sponsors</a></li>
-                <li><a href="students.php">Students</a></li>
-                <li><a href="apply.php">Apply</a></li>
-                <li><a href="about.php">About</a></li>
-                <li><a href="contact.php">Contact</a></li>
-              </ul>
-            </div>
-            <!-- /.Navbar-collapse -->
-
-          </div>
-        </div>
-      </div>
-      <!-- /.container -->
-    </nav>
-  </div>
-  <!-- /Navigation -->
-
-<!-- Section: steps -->
+  <!-- Section: steps -->
   <section id="steps" class="fixpad home-section color-dark bg-white">
     <div class="container">
       <div class="row">
@@ -137,10 +69,10 @@
            <a href="http://fs7.formsite.com/eljabiri2/CCS_Capstone_Proposal/" target="_blank">Click Here For The Application Form</a>
            <p>
            <br/>
-You can expect our decision within a week max of the deadline above. Early submission may receive special consideration for earlier approvals. We will notify you immediately once our advisory team approves your proposal. Even though we have now a larger capacity than any time in the past few years, we receive a large number of projects that usually exceed our capacity. This is, of course, after meeting our criteria first.
+              You can expect our decision within a week max of the deadline above. Early submission may receive special consideration for earlier approvals. We will notify you immediately once our advisory team approves your proposal. Even though we have now a larger capacity than any time in the past few years, we receive a large number of projects that usually exceed our capacity. This is, of course, after meeting our criteria first.
             </p>
             <p>
-Please note that if your project was approved, you must present the project to our students on-campus (at the Open House) and meet with them to select your team at our Sponsors Open House on Saturday Feb 3rd, 2018 from 12-5PM at NJIT�s Campus Center Atrium. Unfortunately, sponsors who don't attend this open house, would normally have their projects cancelled automatically.
+              Please note that if your project was approved, you must present the project to our students on-campus (at the Open House) and meet with them to select your team at our Sponsors Open House on Saturday Feb 3rd, 2018 from 12-5PM at NJIT�s Campus Center Atrium. Unfortunately, sponsors who don't attend this open house, would normally have their projects cancelled automatically.
             </p>
           </div>
         </div>
@@ -273,7 +205,7 @@ Please note that if your project was approved, you must present the project to o
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
           <div class="text-center">
             <p>
-Below is a copy of our NJIT NDA that we require from all our students to sign to protect all parties involved for your reference to view. While the vast majority of our capstone sponsors consider this NDA totally sufficient, very few may suggest an alternative NDA, which is not generally recommended. If absolutely necessary, you MUST make this request when you submit your proposal separately with your proposed changes or alternative NDA. We can't guarantee that NJIT will approve your request. If you don't make such a request on time, we will assume that you accept NJIT's provided NDA to protect your IP. A delayed request may cancel your project proposal automatically since it will overlap with the actual semester timeframe and delay our students. We can't, however, allow our students to sign any alternative NDA unless it is approved by our NJIT legal advisors.
+              Below is a copy of our NJIT NDA that we require from all our students to sign to protect all parties involved for your reference to view. While the vast majority of our capstone sponsors consider this NDA totally sufficient, very few may suggest an alternative NDA, which is not generally recommended. If absolutely necessary, you MUST make this request when you submit your proposal separately with your proposed changes or alternative NDA. We can't guarantee that NJIT will approve your request. If you don't make such a request on time, we will assume that you accept NJIT's provided NDA to protect your IP. A delayed request may cancel your project proposal automatically since it will overlap with the actual semester timeframe and delay our students. We can't, however, allow our students to sign any alternative NDA unless it is approved by our NJIT legal advisors.
           <p>
           <a href="file/NDA-Capstone.pdf" target="_blank">Student Non-Disclosure Agreement</a>
           </div>
@@ -283,24 +215,7 @@ Below is a copy of our NJIT NDA that we require from all our students to sign to
   </section>
   <!-- /Section: NDA -->
 
-  <footer>
-    <?php include 'footer.php';?>
-  </footer>
-
-  <!-- Core JavaScript Files -->
-  <script src="js/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.sticky.js"></script>
-  <script src="js/jquery.easing.min.js"></script>
-  <script src="js/jquery.scrollTo.js"></script>
-  <script src="js/jquery.appear.js"></script>
-  <script src="js/stellar.js"></script>
-  <script src="js/nivo-lightbox.min.js"></script>
-  <script src="js/additions.js"></script>
-
-  <script src="js/custom.js"></script>
-  <script src="js/css3-animate-it.js"></script>
-  <script src="contactform/contactform.js"></script>
-
+  <?php include_once 'footer.php';?>
+  <?php include_once 'scripts.php';?>
 </body>
 </html>

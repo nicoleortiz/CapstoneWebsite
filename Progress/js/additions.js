@@ -6,7 +6,7 @@ function showMore() {
         x.style.display = "block";
         y.style.backgroundColor = "#80ccff";
         y.innerHTML = "less...";
-    } 
+    }
     else {
         x.style.display = "none";
         y.style.backgroundColor = "#80ccff";
@@ -47,7 +47,7 @@ function accfaq() {
         var panel = this.nextElementSibling;
         if (panel.style.display === "block") {
           panel.style.display = "none";
-        } 
+        }
         else {
           panel.style.display = "block";
         }
