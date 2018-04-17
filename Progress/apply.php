@@ -12,7 +12,7 @@
           <!-- APPLY CARD -->
           <a href="#application" onclick="showApply();">
           <div class="card" id="applySmall">
-            <img src="img/apply/apply.png" alt="Avatar" class="cardimg">
+            <img src="img/apply/apply2.png" alt="Avatar" class="cardimg">
             <br/><br/><br/>
             <div class="cardholder">
               <p style="color: black">Just fill out our application form!</p>
@@ -23,7 +23,7 @@
           <!-- GUIDELINES CARD -->
           <a href="#guidelines" onclick="showApply();">
           <div class="card" id="guideSmall">
-            <img src="img/apply/fax.jpg" alt="Avatar" class="cardimg">
+            <img src="img/apply/fax2.png" alt="Avatar" class="cardimg">
             <br/><br/><br/>
             <div class="cardholder">
               <p style="color: black">Guidelines and Acknowledgment Agreement</p>
@@ -34,7 +34,7 @@
           <!-- Payment CARD -->
           <a href="#payment" onclick="showApply();">
           <div class="card" id="guideSmall">
-            <img src="img/apply/pay.jpg" alt="Avatar" class="cardimg">
+            <img src="img/apply/pay2.png" class="cardimg">
             <br/><br/><br/>
             <div class="cardholder">
               <p style="color: black">Contribution Payment</p>
