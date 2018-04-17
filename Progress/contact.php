@@ -55,7 +55,7 @@
                 <li><a href="home.php">Home</a></li>
                 <li><a href="events.php">Events</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
-                <li><a href="students.php">Our Students</a></li>
+                <li><a href="students.php">Students</a></li>
                 <li><a href="apply.php">Apply</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="contact.php">Contact</a></li>

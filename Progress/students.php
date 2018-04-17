@@ -55,7 +55,7 @@
                 <li><a href="home.php">Home</a></li>
                 <li><a href="events.php">Events</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
-                <li><a href="students.php">Our Students</a></li>
+                <li><a href="students.php">Students</a></li>
                 <li><a href="apply.php">Apply</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
@@ -71,14 +71,14 @@
   </div>
   <!-- /Navigation -->
 
-  <!-- Section: application -->
+  <!-- Section: industrial -->
   <section id="application" class="fixpad home-section color-dark bg-white">
     <div class="container marginbot-50">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div>
             <div class="section-heading text-center">
-              <h2 class="h-bold"></h2>
+              <h2 class="h-bold">Industrial Projects</h2>
               <div class="divider-header"></div>
             </div>
           </div>
@@ -90,22 +90,22 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
           <div class="text-center">
-
+            <p>An example of some industrial projects </p>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- /Section: application -->
+  <!-- /Section: industrial -->
 
-  <!-- Section: guidelines -->
+  <!-- Section: entrepreneurial -->
   <section id="guidelines" class="fixpad home-section color-dark bg-gray">
       <div class="container marginbot-50">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div>
             <div class="section-heading text-center">
-              <h2 class="h-bold"></h2>
+              <h2 class="h-bold">Entrepreneurial Projects</h2>
               <div class="divider-header"></div>
             </div>
           </div>
@@ -123,34 +123,8 @@
       </div>
     </div>
   </section>
-  <!-- /Section: guidelines -->
-
-  <!-- Section: payment -->
-  <section id="payment" class="fixpad home-section color-dark bg-white">
-    <div class="container marginbot-50">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div>
-            <div class="section-heading text-center">
-              <h2 class="h-bold"></h2>
-              <div class="divider-header"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 animatedParent">
-          <div class="text-center">
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- /Section: payment -->
-
+  <!-- /Section: entrepreneurial -->
+  
   <footer>
     <?php include 'footer.php';?>
   </footer>

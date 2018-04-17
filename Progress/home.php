@@ -36,23 +36,23 @@
       <div class="container">
         <div class="row">
           <div class="col-md-2">
-                <img src="img/logo.png" height="100"/></a>
+                <img src="img/logo-light.png" height="100"/></a>
           </div>
           <div class="col-md-10">
 
             <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
+            <!-- <div class="navbar-header">
               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
                                                 <i class="fa fa-bars"></i>
                                                 </button>
-            </div>
+            </div> -->
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a href="#">Home</a></li>
                 <li><a href="events.php">Events</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
-                <li><a href="students.php">Our Students</a></li>
+                <li><a href="students.php">Students</a></li>
                 <li><a href="apply.php">Apply</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
@@ -66,27 +66,16 @@
       <!-- /.container -->
     </nav>
   </div>
-  <!-- /Navigation -->
 
-  <!-- Section: about -->
-  <section id="about" class="home-section color-dark bg-white">
-    <div class="container marginbot-50">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-            <div class="section-heading text-center">
-              <h2 class="h-bold">What is Capstone</h2>
-              <div class="divider-header"></div>
-          </div>
-        </div>
-      </div>
-    </div>
+  <!-- Section: what is capstone -->
+  <div class="BackgroundHeader">
+    <h2 class="h-bold">What is Capstone </h2>
+    <div class="BackgroundHeader-border"></div>
+  </div>
 
+  <section id="about" class="home-section color-dark bg-light">
     <div class="container">
-
-
       <div class="row">
-
-
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
           <div class="text-center">
             <p>
@@ -109,13 +98,10 @@
             <button onclick="showMore()" class="btn btn-skin" id="morebutton">more...</button>
           </div>
         </div>
-
-
       </div>
     </div>
-
   </section>
-  <!-- /Section: about -->
+  <!-- /Section: what is capstone -->
 
 
   <!-- Section: link -->
@@ -153,7 +139,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="animated rotateInDownLeft slow">
+            <div class="animated rotateInDownLeft fast">
               <div class="service-box">
                 <div class="service-desc">
                   <h5>Capstone is not a Co-Op or Internship</h5>

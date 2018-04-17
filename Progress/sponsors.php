@@ -51,7 +51,7 @@
                 <li><a href="home.php">Home</a></li>
                 <li><a href="events.php">Events</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
-                <li><a href="students.php">Our Students</a></li>
+                <li><a href="students.php">Students</a></li>
                 <li><a href="apply.php">Apply</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
@@ -67,29 +67,15 @@
   </div>
   <!-- /Navigation -->
 
-  <!-- Section: Why Be A Sponsor -->
-  <section id="sponIntro" class="fixpad home-section color-dark bg-white">
-      <div class="container marginbot-50">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div>
-            <div class="section-heading text-center">
-              <h2 class="h-bold">Why Be A Sponsor?</h2>
-              <div class="divider-header"></div>
-              <p>You should be a sponsor</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- /Section: Why Be A Sponsor -->
-
   <!-- Section: benefits -->
   <section id="benefits" class="fixpad home-section color-dark bg-gray">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
+          <div class="section-heading text-center">
+            <h2 class="h-bold">Why Be A Sponsor?</h2>
+            <div class="divider-header"></div>
+          </div>
           <div class="text-center">
             <table>
               <tr>
@@ -137,7 +123,7 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
           <div class="text-center">
-            <p>
+            <p align="justify">
             1- Large network engineering projects including the design,  configuration and implementation of a reliable network for a large building/office (high demand). <br/>
    2-  Network, information and web application security (very high demand).<br/>
    3- Computer forensics, cyber security and IT criminal justice (high demand). <br/>
