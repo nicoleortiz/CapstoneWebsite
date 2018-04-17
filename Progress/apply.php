@@ -29,27 +29,14 @@
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 
-  <section class="subHead" id="intro">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center inner">
-          <div class="animatedParent">
-            <h1 class="animated fadeInDown">Apply</h1>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
   <!-- Navigation -->
   <div id="navigation">
     <nav class="navbar navbar-custom" role="navigation">
       <div class="container">
         <div class="row">
           <div class="col-md-2">
-            <div class="site-logo">
-              <a href="index.html" class="brand">Logo</a>
+            <div class="col-md-2">
+                <img src="img/logo.png" height="100"/></a>
             </div>
           </div>
 
@@ -65,13 +52,13 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="home.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="sponsors.html">Sponsors</a></li>
-                <li><a href="students.html">Our Students</a></li>
-                <li><a href="faq.html">FAQ</a></li>
-                <li><a href="apply.html">Apply</a></li>
-                <li><a href="contact.html">Contact</a></li>   
+                <li><a href="home.php">Home</a></li>
+                <li><a href="events.php">Events</a></li>
+                <li><a href="sponsors.php">Sponsors</a></li>
+                <li><a href="students.php">Our Students</a></li>
+                <li><a href="apply.php">Apply</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
             <!-- /.Navbar-collapse -->
@@ -89,36 +76,36 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
-        
+
           <!-- APPLY CARD -->
           <a href="#application" onclick="showApply();">
           <div class="card" id="applySmall">
             <img src="img/apply/apply.png" alt="Avatar" class="cardimg">
             <br/><br/><br/>
             <div class="cardholder">
-              <p style="color: black">Just fill out our application form!</p> 
+              <p style="color: black">Just fill out our application form!</p>
             </div>
           </div>
           </a>
-          
+
           <!-- GUIDELINES CARD -->
           <a href="#guidelines" onclick="showApply();">
           <div class="card" id="guideSmall">
             <img src="img/apply/fax.jpg" alt="Avatar" class="cardimg">
             <br/><br/><br/>
             <div class="cardholder">
-              <p style="color: black">Guidelines and Acknowledgment Agreement</p> 
+              <p style="color: black">Guidelines and Acknowledgment Agreement</p>
             </div>
           </div>
           </a>
-          
+
           <!-- Payment CARD -->
           <a href="#payment" onclick="showApply();">
           <div class="card" id="guideSmall">
             <img src="img/apply/pay.jpg" alt="Avatar" class="cardimg">
             <br/><br/><br/>
             <div class="cardholder">
-              <p style="color: black">Contribution Payment</p> 
+              <p style="color: black">Contribution Payment</p>
             </div>
           </div>
           </a>
@@ -142,7 +129,7 @@
         </div>
       </div>
     </div>
-    
+
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
@@ -153,7 +140,7 @@
 You can expect our decision within a week max of the deadline above. Early submission may receive special consideration for earlier approvals. We will notify you immediately once our advisory team approves your proposal. Even though we have now a larger capacity than any time in the past few years, we receive a large number of projects that usually exceed our capacity. This is, of course, after meeting our criteria first.
             </p>
             <p>
-Please note that if your project was approved, you must present the project to our students on-campus (at the Open House) and meet with them to select your team at our Sponsors Open House on Saturday Feb 3rd, 2018 from 12-5PM at NJIT’s Campus Center Atrium. Unfortunately, sponsors who don’t attend this open house, would normally have their projects cancelled automatically.
+Please note that if your project was approved, you must present the project to our students on-campus (at the Open House) and meet with them to select your team at our Sponsors Open House on Saturday Feb 3rd, 2018 from 12-5PM at NJITï¿½s Campus Center Atrium. Unfortunately, sponsors who donï¿½t attend this open house, would normally have their projects cancelled automatically.
             </p>
           </div>
         </div>
@@ -176,7 +163,7 @@ Please note that if your project was approved, you must present the project to o
         </div>
       </div>
     </div>
-    
+
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
@@ -193,7 +180,7 @@ Please note that if your project was approved, you must present the project to o
     </div>
   </section>
   <!-- /Section: guidelines -->
-  
+
   <!-- Section: payment -->
   <section id="payment" class="fixpad home-section color-dark bg-gray">
     <div class="container marginbot-50">
@@ -202,7 +189,7 @@ Please note that if your project was approved, you must present the project to o
           <div>
             <div class="section-heading text-center">
               <h2 class="h-bold">Contribution Payment</h2>
-              <div class="divider-header"></div>  
+              <div class="divider-header"></div>
             </div>
           </div>
         </div>
@@ -265,7 +252,7 @@ Please note that if your project was approved, you must present the project to o
     </div>
   </section>
   <!-- /Section: payment -->
-  
+
   <!-- Section: NDA -->
   <section id="guidelines" class="fixpad home-section color-dark bg-white">
       <div class="container marginbot-50">
@@ -280,13 +267,13 @@ Please note that if your project was approved, you must present the project to o
         </div>
       </div>
     </div>
-    
+
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
           <div class="text-center">
             <p>
-Below is a copy of our NJIT NDA that we require from all our students to sign to protect all parties involved for your reference to view. While the vast majority of our capstone sponsors consider this NDA totally sufficient, very few may suggest an alternative NDA, which is not generally recommended. If absolutely necessary, you MUST make this request when you submit your proposal separately with your proposed changes or alternative NDA. We can’t guarantee that NJIT will approve your request. If you don’t make such a request on time, we will assume that you accept NJIT’s provided NDA to protect your IP. A delayed request may cancel your project proposal automatically since it will overlap with the actual semester timeframe and delay our students. We can’t, however, allow our students to sign any alternative NDA unless it is approved by our NJIT legal advisors.
+Below is a copy of our NJIT NDA that we require from all our students to sign to protect all parties involved for your reference to view. While the vast majority of our capstone sponsors consider this NDA totally sufficient, very few may suggest an alternative NDA, which is not generally recommended. If absolutely necessary, you MUST make this request when you submit your proposal separately with your proposed changes or alternative NDA. We canï¿½t guarantee that NJIT will approve your request. If you donï¿½t make such a request on time, we will assume that you accept NJITï¿½s provided NDA to protect your IP. A delayed request may cancel your project proposal automatically since it will overlap with the actual semester timeframe and delay our students. We canï¿½t, however, allow our students to sign any alternative NDA unless it is approved by our NJIT legal advisors.
           <p>
           <a href="file/NDA-Capstone.pdf" target="_blank">Student Non-Disclosure Agreement</a>
           </div>
@@ -297,24 +284,7 @@ Below is a copy of our NJIT NDA that we require from all our students to sign to
   <!-- /Section: NDA -->
 
   <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 footerLeft">
-          <ul>
-            <li>
-            <p>Mission Statement<br/></p>
-            <p>
-            Since the very beginning, we saw the chance to do be something different than just another class students need to take. We wanted to show the power behind students’ potentials, as well as students-centered education. As we have done in the past, we always continue to  strive towards creating a window for endless possibilities for students, university and community.
-            </p>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-6 footerRight">
-          <br><br>
-          <p>New Jersey Institute of Technology<br/>323 Dr Martin Luther King Jr Blvd,<br/>Newark, NJ 07102</p>
-        </div>
-      </div>
-    </div>
+    <?php include 'footer.php';?>
   </footer>
 
   <!-- Core JavaScript Files -->

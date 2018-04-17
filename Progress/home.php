@@ -29,29 +29,6 @@
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 
-  <section class="hero" id="intro">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-right navicon">
-          <a id="nav-toggle" class="nav_slide_button" href="#"><span></span></a>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center inner">
-          <div class="animatedParent">
-            <h1 class="animated fadeInDown">NJIT YWCC Capstone</h1>
-            <p class="animated fadeInUp">NJIT Finds Industry Solutions</p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6 col-md-offset-3 text-center">
-          <a href="#about" class="learn-more-btn btn-scroll">What is Capstone?</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
 
   <!-- Navigation -->
   <div id="navigation">
@@ -59,12 +36,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-2">
-            <div class="site-logo">
-              <a href="index.html" class="brand">Logo</a>
-            </div>
+                <img src="img/logo.png" height="100"/></a>
           </div>
-
-
           <div class="col-md-10">
 
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -77,12 +50,12 @@
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="sponsors.html">Sponsors</a></li>
-                <li><a href="students.html">Our Students</a></li>
-                <li><a href="faq.html">FAQ</a></li>
-                <li><a href="apply.html">Apply</a></li>
-                <li><a href="contact.html">Contact</a></li>   
+                <li><a href="events.php">Events</a></li>
+                <li><a href="sponsors.php">Sponsors</a></li>
+                <li><a href="students.php">Our Students</a></li>
+                <li><a href="apply.php">Apply</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
             <!-- /.Navbar-collapse -->
@@ -97,40 +70,33 @@
 
   <!-- Section: about -->
   <section id="about" class="home-section color-dark bg-white">
-    <div class="container marginbot-50">
+    <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
-          <div class="animatedParent">
-            <div class="section-heading text-center animated bounceInDown">
+            <div class="section-heading text-center">
               <h2 class="h-bold">What is Capstone</h2>
               <div class="divider-header"></div>
-            </div>
           </div>
         </div>
       </div>
-
     </div>
 
     <div class="container">
-
-
       <div class="row">
-
-
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
           <div class="text-center">
             <p>
               The Capstone Program is a project-based, academic course where sponsors provide industry projects for our students. The Ying Wu College of Computing (YWCC) Capstone Program offers a very cost-effective solution for your business with a high return on your investment by using the help of driven, talented and well-trained CS, IS and IT students from NJIT. Capstone is a required course for all of our undergraduate students and has recently been added as an elective for our graduate students.
             </p>
             <p>
-              Capstone teams are composed of 2-4 well-trained and talented students working on our Sponsors’ projects for at least 12 weeks. Our students will work on sponsor project(s) as focused, teams of consultants with carefully selected leaders and mentors. They utilize a continuous process improvement strategy, on a biweekly basis, managed by a course instructor and our executive team. Students also receive mentorship, training and support from our Capstone leadership and executive team as well as access to a variety of other resources in our network.
+              Capstone teams are composed of 2-4 well-trained and talented students working on our Sponsors' projects for at least 12 weeks. Our students will work on sponsor project(s) as focused, teams of consultants with carefully selected leaders and mentors. They utilize a continuous process improvement strategy, on a biweekly basis, managed by a course instructor and our executive team. Students also receive mentorship, training and support from our Capstone leadership and executive team as well as access to a variety of other resources in our network.
             </p>
             <div id="moreText" style="display: none;">
               <p>
             With over a decade of history, the YWCC Capstone program is an exceptional educational experience designed to empower students and mirror their interests via real world project-based learning and hands-on training. This program has delivered outstanding results in more than 1,200 industry-sponsored projects with more than 700 organizations. The YWCC Capstone program has received numerous awards including national and state-wide recognition.
               </p>
               <p>
-            Student teams tackle projects in a very broad array of application domains from network engineering to software engineering and much more. The capstone program is very selective in accepting projects and deciding to work with potential sponsoring organizations based on composite criteria and students’ votes and interests.
+            Student teams tackle projects in a very broad array of application domains from network engineering to software engineering and much more. The capstone program is very selective in accepting projects and deciding to work with potential sponsoring organizations based on composite criteria and students' votes and interests.
               </p>
               <p>
             Our goal for Capstone students is to develop critical skills such as leadership empowerment, strategic problem-solving and real world learning experiences. During the Capstone program, students use evolutionary prototyping via five sprints to complete projects. Our sponsors act as partners, mentors, and coaches with weekly communication and biweekly in-class meetings (including Showcases). Students provide their sponsors tangible results every two weeks, and are expected to provide feedback to the teams.
@@ -177,7 +143,7 @@
                   <p>
                     To simplify the process, we have created three easy steps to become a sponsor. Click below for more details.
                   </p>
-                  <a href="apply.html" class="btn btn-skin">Apply Now</a>
+                  <a href="apply.php" class="btn btn-skin">Apply Now</a>
                 </div>
               </div>
             </div>
@@ -200,13 +166,13 @@
             <div class="animated rotateInDownLeft slower">
               <div class="service-box">
                 <div class="service-desc">
-                  
+
                   <h5>What Are The Benefits?</h5>
                   <div class="divider-header"></div>
                   <p>
                     Access to a diverse talent team and finding new employees to name a few. Click below to learn everything Capstone can offer you
                   </p>
-                  <a href="sponsors.html#benefits" class="btn btn-skin">Learn more</a>
+                  <a href="sponsors.php#benefits" class="btn btn-skin">Learn more</a>
                 </div>
               </div>
             </div>
@@ -275,25 +241,9 @@
 
   </section>
   <!-- /Section: companies -->
+
   <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 footerLeft">
-          <ul>
-            <li>
-            <p>Mission Statement<br/></p>
-            <p>
-            Since the very beginning, we saw the chance to do be something different than just another class students need to take. We wanted to show the power behind students’ potentials, as well as students-centered education. As we have done in the past, we always continue to  strive towards creating a window for endless possibilities for students, university and community.
-            </p>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-6 footerRight">
-          <br><br>
-          <p>New Jersey Institute of Technology<br/>323 Dr Martin Luther King Jr Blvd,<br/>Newark, NJ 07102</p>
-        </div>
-      </div>
-    </div>
+    <?php include 'footer.php';?>
   </footer>
 
   <!-- Core JavaScript Files -->
@@ -305,11 +255,9 @@
   <script src="js/jquery.appear.js"></script>
   <script src="js/stellar.js"></script>
   <script src="js/nivo-lightbox.min.js"></script>
-
   <script src="js/custom.js"></script>
   <script src="js/css3-animate-it.js"></script>
   <script src="contactform/contactform.js"></script>
-  
   <script src="js/additions.js"></script>
 
 </body>

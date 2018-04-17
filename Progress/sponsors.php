@@ -24,23 +24,9 @@
     Author: BootstrapMade
     Author URL: https://bootstrapmade.com
   ======================================================= -->
-
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
-
-  <section class="subHead" id="intro">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center inner">
-          <div class="animatedParent">
-            <h1 class="animated fadeInDown">Sponsors</h1>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
 
   <!-- Navigation -->
   <div id="navigation">
@@ -48,11 +34,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-2">
-            <div class="site-logo">
-              <a href="index.html" class="brand">Logo</a>
-            </div>
+                <img src="img/logo.png" height="100"/></a>
           </div>
-
 
           <div class="col-md-10">
 
@@ -65,13 +48,13 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="menu">
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="home.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="sponsors.html">Sponsors</a></li>
-                <li><a href="students.html">Our Students</a></li>
-                <li><a href="faq.html">FAQ</a></li>
-                <li><a href="apply.html">Apply</a></li>
-                <li><a href="contact.html">Contact</a></li>   
+                <li><a href="home.php">Home</a></li>
+                <li><a href="events.php">Events</a></li>
+                <li><a href="sponsors.php">Sponsors</a></li>
+                <li><a href="students.php">Our Students</a></li>
+                <li><a href="apply.php">Apply</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
             <!-- /.Navbar-collapse -->
@@ -83,7 +66,7 @@
     </nav>
   </div>
   <!-- /Navigation -->
-  
+
   <!-- Section: Why Be A Sponsor -->
   <section id="sponIntro" class="fixpad home-section color-dark bg-white">
       <div class="container marginbot-50">
@@ -101,7 +84,7 @@
     </div>
   </section>
   <!-- /Section: Why Be A Sponsor -->
-  
+
   <!-- Section: benefits -->
   <section id="benefits" class="fixpad home-section color-dark bg-gray">
     <div class="container">
@@ -142,14 +125,14 @@
               <h2 class="h-bold">Types of Projects</h2>
               <div class="divider-header"></div>
               <p>
-              The program accepts a very wide array of IT/software driven problem solving projects – including software development, business analysis and IT solutions Recently, the projects that match students interests  most include but not limited to:
+              The program accepts a very wide array of IT/software driven problem solving projects including software development, business analysis and IT solutions Recently, the projects that match students interests  most include but not limited to:
               </p>
             </div>
           </div>
         </div>
       </div>
     </div>
-    
+
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
@@ -158,7 +141,7 @@
             1- Large network engineering projects including the design,  configuration and implementation of a reliable network for a large building/office (high demand). <br/>
    2-  Network, information and web application security (very high demand).<br/>
    3- Computer forensics, cyber security and IT criminal justice (high demand). <br/>
-   4- IPhone and Android application development (high demand).<br/> 
+   4- IPhone and Android application development (high demand).<br/>
    5- Audio or video work for an event, audio / video editing, or something   where a graphic designer is needed. Something involving skills in Adobe Illustrator, InDesign, Premiere, or Soundbooth.<br/>
    6- Game Development projects.<br/>
    7- Projects that involve business analysis and/or design of interactive systems using HCI principles<br/>
@@ -189,7 +172,7 @@
         </div>
       </div>
     </div>
-    
+
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 animatedParent">
@@ -222,24 +205,7 @@
   <!-- /Section: expectations -->
 
   <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 footerLeft">
-          <ul>
-            <li>
-            <p>Mission Statement<br/></p>
-            <p>
-            Since the very beginning, we saw the chance to do be something different than just another class students need to take. We wanted to show the power behind students’ potentials, as well as students-centered education. As we have done in the past, we always continue to  strive towards creating a window for endless possibilities for students, university and community.
-            </p>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-6 footerRight">
-          <br><br>
-          <p>New Jersey Institute of Technology<br/>323 Dr Martin Luther King Jr Blvd,<br/>Newark, NJ 07102</p>
-        </div>
-      </div>
-    </div>
+    <?php include 'footer.php';?>
   </footer>
 
   <!-- Core JavaScript Files -->
