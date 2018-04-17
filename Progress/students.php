@@ -3,8 +3,25 @@
 <?php include_once 'head.php';?>
 <?php include_once 'navigation.php';?>
 
+<section id="application" class="fixpad home-section color-dark bg-white">
+  <div class="container marginbot-50">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <div>
+          <div class="section-heading text-center">
+              <h2 class="h-bold">We're sorry, this page is still under construction
+              Please check back soon.
+              </h2>
+              <img src="img/construction.png" style = "width: 50%; align:center;"/></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
   <!-- Section: industrial -->
-  <section id="application" class="fixpad home-section color-dark bg-white">
+  <!-- <section id="application" class="fixpad home-section color-dark bg-white">
     <div class="container marginbot-50">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
@@ -27,12 +44,12 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- /Section: industrial -->
 
   <!-- Section: entrepreneurial -->
-  <section id="guidelines" class="fixpad home-section color-dark bg-gray">
-      <div class="container marginbot-50">
+  <!-- <section id="guidelines" class="fixpad home-section color-dark bg-gray"> -->
+      <!-- <div class="container marginbot-50">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div>
@@ -54,7 +71,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- /Section: entrepreneurial -->
 
 <?php include_once 'footer.php';?>

@@ -855,12 +855,19 @@ footer a.totop:focus {
 
 .BackgroundHeader {
 		padding: 100px;
-		background: url(../img/header1.png);
+		background: url(../img/header1_opt.png);
 		background-repeat: no-repeat;
- 		background-size: auto;
+ 		background-size: cover;
 }
 
-.BackgroundHeader h2 {
+.BackgroundHeader-showcase {
+		padding: 100px;
+		background: url(../img/showcase_opt.png);
+		background-repeat: no-repeat;
+		background-size: cover;
+}
+
+.BackgroundHeader h2, .BackgroundHeader-showcase h2 {
 	font-size: 34px;
 	letter-spacing: 1px;
 	text-transform: uppercase;

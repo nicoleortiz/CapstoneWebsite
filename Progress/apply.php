@@ -72,7 +72,7 @@
               You can expect our decision within a week max of the deadline above. Early submission may receive special consideration for earlier approvals. We will notify you immediately once our advisory team approves your proposal. Even though we have now a larger capacity than any time in the past few years, we receive a large number of projects that usually exceed our capacity. This is, of course, after meeting our criteria first.
             </p>
             <p>
-              Please note that if your project was approved, you must present the project to our students on-campus (at the Open House) and meet with them to select your team at our Sponsors Open House on Saturday Feb 3rd, 2018 from 12-5PM at NJIT�s Campus Center Atrium. Unfortunately, sponsors who don't attend this open house, would normally have their projects cancelled automatically.
+              Please note that if your project was approved, you must present the project to our students on-campus (at the Open House) and meet with them to select your team at our Sponsors Open House on Saturday Feb 3rd, 2018 from 12-5PM at NJIT's Campus Center Atrium. Unfortunately, sponsors who don't attend this open house, would normally have their projects cancelled automatically.
             </p>
           </div>
         </div>
@@ -153,7 +153,7 @@
             <div class="more-features-box-text">
               <div class="more-features-box-text-icon"><i class="fa fa-angle-right" aria-hidden="true"></i> </div>
               <div class="more-features-box-text-description">
-                <h3>Click For Steps To Pay By Check</h3>
+                <h5>Pay By Check</h5>
               </div>
             </div>
             </a>
@@ -170,14 +170,14 @@
             <div class="more-features-box-text">
               <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
               <div class="more-features-box-text-description">
-                <h3>Click For Steps To Pay Online</h3>
+                <h5>Pay Online</h5>
               </div>
             </div>
             </a>
             <div id="online" style="visibility: hidden;">
-              <p>1. Use <a href="https://njit-connect.njit.edu/givenow"> this link </a><br/>
-     2. Use 'Giving Search' at the top to search for 'Capstone' and select 'Capstone Program'<br/>
-     3. In'Additional Information' select 'One-time gift' and 'This donation is on
+              <p>1. Use <a href="https://njit-connect.njit.edu/givenow"> This Link </a><br/>
+                2. Use 'Giving Search' at the top to search for 'Capstone' and select 'Capstone Program'<br/>
+                3. In 'Additional Information' select 'One-time gift' and 'This donation' is on
             </div>
           </div>
       </div>
