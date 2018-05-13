@@ -1,0 +1,457 @@
+{
+   "teams":[
+      {
+         "project":"4SPACE APP (Amy Hoover)",
+         "team_members":[
+            "Myles Alcala",
+            "Khanh Dang",
+            "Shannon Hargrave",
+            "Kathleen Nguyendon"
+         ],
+         "description":"Music-concept teaching mobile game",
+         "image":"1.png"
+      },
+      {
+         "project":"AppItUp",
+         "team_members":[
+            "Colin Pope",
+            "Bridgen Parekh",
+            "Tameem Haj-Ibrahim",
+            "Josh Olayinka"
+         ],
+         "description":"AppItUp is a website which brings people together in order to create great things.",
+         "image":"2.png"
+      },
+      {
+         "project":"Association for Women in Science NJ",
+         "team_members":[
+            "Yaghsha Shah",
+            "Mehdi Kettani",
+            "Melilin Lu",
+            "Ahmed Mahmoud"
+         ],
+         "description":"Website development",
+         "image":"3.png"
+      },
+      {
+         "project":"Barat Foundation's Animodules",
+         "team_members":[
+            "Paul Clemente",
+            "Saahil Govani",
+            "Arvindh Krishnamurthy",
+            "Kevin Patel",
+            "Segun Akwonjo"
+         ],
+         "description":"Design and develop a gaming application to share and contribute to the creation of non violent art pieces called Animodules in order to engage and connect the people of Newark.",
+         "image":"4.png"
+      },
+      {
+         "project":"BeachBox",
+         "team_members":[
+            "Pritinder Singh",
+            "Palash Jain",
+            "Kimberly Lozarito",
+            "Robert Calamari"
+         ],
+         "description":"Redevelopment of website, add e-commerce, search engine optimization",
+         "image":"5.png"
+      },
+      {
+         "project":"YAI: Person's Centered",
+         "team_members":[
+            "Brandon Go",
+            "Gustavo Buitrago",
+            "Ilaxy Patel",
+            "Sameer Chakraborty"
+         ],
+         "description":" An application to help people with disabilities throughout their days.",
+         "image":"6.png"
+      },
+      {
+         "project":"Blood Donor Finder Application",
+         "team_members":[
+            "Muhammad Khalid",
+            "Oliver Cimafranca",
+            "Maitrey Patel",
+            "Sumit Rawat"
+         ],
+         "description":"An android application that is convenient for users to find donors as well as blood banks within the application.",
+         "image":"7.png"
+      },
+      {
+         "project":"BookSwap",
+         "team_members":[
+            "Krishna Chaitanya Nelloore",
+            "Krishna Manmitha Chelluboyina",
+            "Ratanamolsingh Khalsa",
+            "Siva Angajala "
+         ],
+         "description":"Wish to trade those expensive books you won't use anymore? BookSwap is just the platform you need. It's a user friendly application where users can swap, rent or sell books thereby reducing the overall cost.",
+         "image":"8.png"
+      },
+      {
+         "project":"Classmo",
+         "team_members":[
+            "Michael Anderson",
+            "Jeury Mejia",
+            "Mehtab Sidhu",
+            "Anthony Whitley"
+         ],
+         "description":"Classmo is a containerized, customizable web application that organizations can deploy to manage customer registrations for classes they offer",
+         "image":"9.png"
+      },
+      {
+         "project":"D3UC- Database Warehouse for Management Reports",
+         "team_members":[
+            "Keya Shah",
+            "Zakaria Ismaili",
+            "Patrick Laka",
+            "Matt Curry"
+         ],
+         "description":"The primary objective of this project is to create a well-structured data warehouse for storing information from the D3UC�۪s phone and unified communications (UC) platform.  A well-designed user interface will allow the generation of ad-hoc and pre-defined management reports. The system should be able to extract data from generated reports so the company can start billing customers for different phone usage apps.",
+         "image":"10.png"
+      },
+      {
+         "project":"Etsal",
+         "team_members":[
+            "Alisina Saberi",
+            "Manahil Riaz",
+            "Jeet Patel",
+            "Hrishi Patel"
+         ],
+         "description":"Anonymous message board",
+         "image":"11.png"
+      },
+      {
+         "project":"ExperienceNYC",
+         "team_members":[
+            "Steven Dias",
+            "Aleksandr Markenzon",
+            "Shreyas Ramanujam",
+            "Addae Amofa-Boachie"
+         ],
+         "description":"ExperienceNYC is a webapp that help use find things to do around NYC. Allowing users keep track of favorite places, find events, create and save trips and eventually share those with others. Using our reccomendation engine we try to find the best places and events in NYC. So that the next time you don't just visit the city, you experience it.",
+         "image":"12.png"
+      },
+      {
+         "project":"Gale's Tale",
+         "team_members":[
+            "George Maghamez",
+            "Ralph Legge",
+            "Joshua Williams",
+            "Babatunde Ojo"
+         ],
+         "description":"A 2D Puzzle Platformer that tests the player's decision making skills, reflexes, and their ability to learn from their mistakes.",
+         "image":"13.png"
+      },
+      {
+         "project":"Intrinsic Cafe App",
+         "team_members":[
+            "Connor Watson",
+            "Chidanand Khode",
+            "Spruha Shah",
+            "Kevin Le"
+         ],
+         "description":"Intrinsic Cafe is a small coffee shop located just off campus, who serves the local community daily despite having other popular name brand competitors also integrated around campus as well. To help stay ahead of the game, we have sought out to create both a mobile app and website for the cafe, featuring the menu, ordering on the go, and much more consumer friendly features.",
+         "image":"14.png"
+      },
+      {
+         "project":"ISC2 NJ - Open source vulnerability scanning and test environment",
+         "team_members":[
+            "Ebram Kerolos",
+            " Alexander Britch",
+            "Brian Goodwin",
+            "Khari Davis",
+            "Louis Eastmen "
+         ],
+         "description":"We are building a penetration testing environment in the cloud.",
+         "image":"15.png"
+      },
+      {
+         "project":"MAgents",
+         "team_members":[
+            "Cole Degeorges",
+            "Charles Luna",
+            "Bob Provencher",
+            "Brandon Wilson"
+         ],
+         "description":"Machine Learning Game Simulation",
+         "image":"16.png"
+      },
+      {
+         "project":"MealHunt",
+         "team_members":[
+            "Khadir Williams",
+            "Rahul Syal",
+            "Emil Mora",
+            "Maryam Elhadad"
+         ],
+         "description":"MealHunt is an android application that allows friends to group up and hunt for places to eat together!",
+         "image":"17.png"
+      },
+      {
+         "project":"Net@Work - Professional Services Automation - Implementation",
+         "team_members":[
+            "Rehab Taha (PM)",
+            "Aejaj Sande",
+            "Pooja Daas",
+            "and Kavita Sharma."
+         ],
+         "description":"Our project is an implementation of MS Dynamics 365 Professional Services Automation (PSA) system to replace Net@Work existing ChangePoint PSA system.",
+         "image":"18.png"
+      },
+      {
+         "project":"NJ Court- Paperless Parking Enforcement System",
+         "team_members":[
+            "Parikshit Madahar",
+            "Jay Kumar Mistry",
+            "Xiaoya He",
+            "Himanshu Jajoo"
+         ],
+         "description":"Paperless Parking Enforcement System is a prototype system consisting of mobile ticketing app, a ticket look up kiosk app and public access app services, This system does not require a physical ticket to be printed, eliminating the need for officers to carry mobile printers & it will save significant paper waste, (nearly 1.5 million tickets are generated per year).",
+         "image":"19.png"
+      },
+      {
+         "project":"NJ Courts- CIA",
+         "team_members":[
+            "Jil Sheth",
+            "Rohan Mavani",
+            "Immanuel Monahan",
+            "Gary Avendano"
+         ],
+         "description":"We designed an AI driven SMS chatbot for the the jury system that answers the basic FAQ's, and also lets the juror ask dynamic question such as jury status.",
+         "image":"20.png"
+      },
+      {
+         "project":"NJIT Digital Humanities Database",
+         "team_members":[
+            "Mahmood Khan",
+            "Wei Wang",
+            "Ajay Patel",
+            "Rempee Kalia",
+            "Max Tillmann",
+            "Jason Rodd"
+         ],
+         "description":"Create a website that will display court records and create a database system that will store all info regarding court cases.",
+         "image":"21.png"
+      },
+      {
+         "project":"NJIT Michael Beiber: Participatory Learning Project: Back-End Functionality (MS)",
+         "team_members":[
+            "Arun Senthil Somasundaram",
+            "Aravind Adithya Narayan",
+            "Shantanu Sharma",
+            "Vaishnavi Reddy Adapala"
+         ],
+         "description":"Participatory Learning is an educational website that facilitates collaboration in classes by allowing students to create, solve, grade, and dispute problems among each other. ",
+         "image":"22.png"
+      },
+      {
+         "project":"NJIT Presenter",
+         "team_members":[
+            "PM:  Shail Shah Members: Aidan McGourty",
+            "Shabo Mulic",
+            "Kruti Patel",
+            "Sanil Shah"
+         ],
+         "description":"Streamline a business function that Michael Smullen performs, improved presentation capabilities to enhance accessibility of presentations and overall information. ",
+         "image":"23.png"
+      },
+      {
+         "project":"NJIT ResPort",
+         "team_members":[
+            "Connor Watson",
+            "Daniel Barron",
+            "Rahul Halder",
+            "Ritu Patel"
+         ],
+         "description":"A NJIT Research Portal that students can use for finding research opportunities on campus and faculty can use for finding the right students! We have created a mobile application, Android based, and also a website that can be found at njitresearch.com",
+         "image":"24.png"
+      },
+      {
+         "project":"No Pressure",
+         "team_members":[
+            "Faizan Anwar Khan",
+            "Ahmed SanaUllah",
+            "Abderrahim Mechtemel Belkadi",
+            "Luke Seuffert"
+         ],
+         "description":"No Pressure is an innovative and effective platform that facilitates and encourages conversational skills, elevator pitch practice, interviewing practice, team development and problem solving. This mobile application provides users with a fun and practical learning experience and helps them to the develop necessary conversational, social, and critical thinking skills. Today, conversational skills are extremely crucial and in demand; moreover, interviewing skills and problem solving skills are necessary for candidates to land jobs. While there are many platforms that allow users to video chat/voice chat, none of them really help users to learn and to improve themselves in the process. No Pressure looks to change that.",
+         "image":"25.png"
+      },
+      {
+         "project":"Not Your Mother's Board",
+         "team_members":[
+            "Angela Vitaletti",
+            "Henry VanBlake",
+            "Christian Paolella",
+            "Kevin Butryn "
+         ],
+         "description":"Not Your Mother's Board is a PC game that teaches players the fundamentals of how Printed Circuit Boards work. They will understand how components function, learn to build simple circuits, and use a multimeter to fix issues. ",
+         "image":"26.png"
+      },
+      {
+         "project":"ISC2 NJ Graduate - Open source vulnerability scanning and test environment",
+         "team_members":[
+            "Pratik Kharadi",
+            "Cristopher Czarnecki",
+            "Eric Koshykar",
+            "Erika Reyes",
+            "Venkat Yellepeddi"
+         ],
+         "description":"To develop low or no cost security vulnerability scanning environment.",
+         "image":"27.png"
+      },
+      {
+         "project":"Panic Pinnacle",
+         "team_members":[
+            "Steve Coluccio",
+            "Chris Lindgren",
+            "Carlos Medina"
+         ],
+         "description":"Panic Pinnacle is a four player multiplayer video game where players are on a frantic race to escape. It's every man for himself in a competition to escape the city.",
+         "image":"28.png"
+      },
+      {
+         "project":"Participatory Learning - Backend/UG",
+         "team_members":[
+            "Alan Romano",
+            "Jimmy Lu",
+            "Mateusz Stolarz",
+            "Jerrod Ransom"
+         ],
+         "description":"Developing an online learning system that enhances student learning through collaborative problems and deeper engagement in their own education.",
+         "image":"29.png"
+      },
+      {
+         "project":"Pullup Parking",
+         "team_members":[
+            "Ranjith P. Janardanan (Project Manager)",
+            " Saily Sawant",
+            "Rahul Ramesh Shetty"
+         ],
+         "description":"The goal of our project is to solve the parking problem in densely populated cities like New York City by creating an app that connects people leaving parking spots with those arriving and enables exchange of parking spots for a price.",
+         "image":"30.png"
+      },
+      {
+         "project":"RDE SYSTEMS NETWORKING",
+         "team_members":[
+            "Alex Osmanoff",
+            "Matt Muscarella",
+            "Amine El Marrachi",
+            "Adnane Errachide"
+         ],
+         "description":"Virtualization of an enterprise network environment",
+         "image":"31.png"
+      },
+      {
+         "project":"RDESystems Medical Application",
+         "team_members":[
+            "Alan Yanza",
+            "Manish Singh",
+            "Taylor Tu",
+            "Steve St. Edward"
+         ],
+         "description":"Transforming the  ADAP (Aids Drug Assistance Program) application form into web application. The web application include various functionality and an internal messaging system.",
+         "image":"32.png"
+      },
+      {
+         "project":"Registration Helper",
+         "team_members":[
+            "Karim Dallas-Newell",
+            "Inderpal Singh",
+            "Michael Tsiang",
+            "Jeffrey Yoo "
+         ],
+         "description":"Registration Helper is focused on creating a sandbox environment for students to plan for registration and graduation.",
+         "image":"33.png"
+      },
+      {
+         "project":"RWC Portal",
+         "team_members":[
+            "Jeffrey Santos",
+            "Jean Gomez",
+            "Julian Centanni",
+            "Jimmy She",
+            "Kee Hyun Jung"
+         ],
+         "description":"Build a portal for the RWC program that gets rid of their paper base attendance and registration system and allows for the online registration of students, coaches, tracks as well as take student attendance.",
+         "image":"34.png"
+      },
+      {
+         "project":"Stop & Stair",
+         "team_members":[
+            "Joshua Owusu-Gyimah",
+            "Deephak CSA",
+            "Jagger Ferreira "
+         ],
+         "description":"Develop website and setting printer up for stair decal design online for printing.",
+         "image":"35.png"
+      },
+      {
+         "project":"UPS Imaging",
+         "team_members":[
+            "Aneesh Muthiyan",
+            "Darren Gomez",
+            "Ashish Devanapalli",
+            "Chandu Atluri",
+            "Gabriel Plewa"
+         ],
+         "description":"We are creating an image processing app for UPS that will both measure room size and identify server racks within the room using machine learning and computer vision.",
+         "image":"36.png"
+      },
+      {
+         "project":"YAI IOT Platform Assessment ",
+         "team_members":[
+            "Shamyra Rojas",
+            "Jonathan Aguilar",
+            "Norman Eidelman",
+            "Darshil Patel"
+         ],
+         "description":"YAI SMILE is a game for children with intellectual and developmental disabilities; it will teach them how to express emotions.",
+         "image":"37.png"
+      },
+      {
+         "project":"YAI smart home ",
+         "team_members":[
+            "Robert Slawinski",
+            "kautilya Chauhan",
+            "Deepesh Lad "
+         ],
+         "description":"YAI Smart home project wants to be geared toward making a difference in the lives of people with disabilities. By visiting residential homes, such as in Howard Beach of New York, will be able to meet with those who need to be helped and work with them to figure out how we can utilize technology to advance their lifestyles by researching new technologies or looking at last years capstone project researched data to meet and solve their needs. We will find API for the products to help us get information on usage of each technology. By the end of our sprints and final project, if we are even able to help and change one life then we will be successful in our goals. ",
+         "image":"38.png"
+      },
+      {
+         "project":"YAI: A Day In The Life",
+         "team_members":[
+            "Nicolas Santiago",
+            "Alan Samson",
+            "Benny Guan "
+         ],
+         "description":"VR implementation in a clinical environment for persons with intellectual and developmental disabilities.",
+         "image":"39.png"
+      },
+      {
+         "project":"MTSS Ticketing",
+         "team_members":[
+            "Anthony Morales",
+            "Edgar Chicas",
+            "John Cummings",
+            "Victor Cornejo"
+         ],
+         "description":" A systematic way of helping the Media services department in keeping track of their orders/rentals.",
+         "image":"40.png"
+      },
+      {
+         "project":"BCT Partners",
+         "team_members":[
+            "Naman Sharma",
+            "Prerna Jha",
+            "Sachin Guleria",
+            "Saurabh Pore"
+         ],
+         "description":" BCT Partners app",
+         "image":"41.png"
+      }
+   ]
+}

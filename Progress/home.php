@@ -115,14 +115,12 @@
     <div class="container marginbot-50">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
-          <div>
             <div class="animatedParent">
               <div class="section-heading text-center">
                 <h2 class="h-bold animated bounceInDown">This Year's Sponsors</h2>
                 <div class="divider-header"></div>
               </div>
             </div>
-          </div>
         </div>
       </div>
 
