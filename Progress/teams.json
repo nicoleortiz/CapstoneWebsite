@@ -46,6 +46,17 @@
          "image":"4.png"
       },
       {
+         "project":"BCT Partners",
+         "team_members":[
+            "Naman Sharma",
+            "Prerna Jha",
+            "Sachin Guleria",
+            "Saurabh Pore"
+         ],
+         "description":" BCT Partners app",
+         "image":"41.png"
+      },
+      {
          "project":"BeachBox",
          "team_members":[
             "Pritinder Singh",
@@ -188,6 +199,17 @@
          ],
          "description":"MealHunt is an android application that allows friends to group up and hunt for places to eat together!",
          "image":"17.png"
+      },
+      {
+         "project":"MTSS Ticketing",
+         "team_members":[
+            "Anthony Morales",
+            "Edgar Chicas",
+            "John Cummings",
+            "Victor Cornejo"
+         ],
+         "description":" A systematic way of helping the Media services department in keeping track of their orders/rentals.",
+         "image":"40.png"
       },
       {
          "project":"Net@Work - Professional Services Automation - Implementation",
@@ -430,28 +452,6 @@
          ],
          "description":"VR implementation in a clinical environment for persons with intellectual and developmental disabilities.",
          "image":"39.png"
-      },
-      {
-         "project":"MTSS Ticketing",
-         "team_members":[
-            "Anthony Morales",
-            "Edgar Chicas",
-            "John Cummings",
-            "Victor Cornejo"
-         ],
-         "description":" A systematic way of helping the Media services department in keeping track of their orders/rentals.",
-         "image":"40.png"
-      },
-      {
-         "project":"BCT Partners",
-         "team_members":[
-            "Naman Sharma",
-            "Prerna Jha",
-            "Sachin Guleria",
-            "Saurabh Pore"
-         ],
-         "description":" BCT Partners app",
-         "image":"41.png"
       }
    ]
 }

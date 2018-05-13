@@ -9,10 +9,10 @@
       <div class="col-lg-8 col-lg-offset-2">
       -->
       <div class="BackgroundHeader">
-      <div class="row animatedParent">
-          <h2 class="h-bold animated fadeIn slower">2018 Teams and Projects</h2>
+            <div class="row animatedParent">
+                  <h2 class="h-bold animated fadeIn slower">2018 Teams and Projects</h2>
+            </div>
       </div>
-</div>
 
 
               <?php
@@ -24,31 +24,31 @@
 
                   if ($counter % 2){
                     echo"<section id=\"projType\" class=\"fixpad home-section color-dark bg-white\">";
+                  } else {
+                        echo"<section id=\"projType\" class=\"fixpad home-section color-dark bg-gray\">";
+                  }
                         echo"<div class=\"container marginbot-50\">";
                               echo"<div class=\"row\">";
-                                    echo"<div class=\"col-lg-8 col-lg-offset-0\">";
+                                    echo"<div class=\"col-lg-8 col-lg-offset-2\">";
                                           echo("<h2>".$project["project"].'</h2>');
                                           echo"<div style=\"clear: left;\">";
-                                                echo("<p style=\"float: right;\"><img src=\"img/teams/".$project["image"]. "\".png\" style = \"width: 100%; align:left;\"/>trying to test out this text</p>");
-                                                echo"<p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>";
+                                                echo("<p style=\"float:right;\"> <img src=\"img/teams/".$project["image"]."\".png\" style = \"width: 100%; \"align:center;\" />");
+                                                echo"<p>Team Members: ";
+                                                $last_key = end($project["team_members"]);
+                                                foreach($project["team_members"] as $person){
+                                                      if ($person == $last_key) {
+                                                            echo($person .".");
+                                                      } else {
+                                                            echo($person ." - ");
+                                                      }
+                                                }
+                                                echo"</p>";
+                                                echo"<p>Project Description: ". $project["description"]."</p>";
                                           echo"</div>";
                                     echo"</div>";
                               echo"</div>";
                         echo"</div>";
                   echo"</section>";
-
-                  } else {
-                    echo"<section id=\"projType\" class=\"fixpad home-section color-dark bg-gray\">";
-                        echo"<div class=\"container marginbot-50\">";
-                        echo"<div class=\"row\">";
-                          echo"<div class=\"col-lg-8 col-lg-offset-4\">";
-                          echo("<h2>".$project["project"].'</h2>');
-                          echo("<img src=\"img/teams/".$project["image"]. "\".png\" style = \"width: 100%; align:right;\"/></a>");
-                          echo"</div>";
-                          echo"</div>";
-                      echo"</div>";
-                    echo"</section>";
-                  }
                   $counter = $counter+1;
                 }
               ?>
